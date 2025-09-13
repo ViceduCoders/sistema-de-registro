@@ -5,3 +5,5 @@
 Para ejecutar el sistema, debes ejecutar:
 
 ```npm install react```
+
+- Continuamos programando...
